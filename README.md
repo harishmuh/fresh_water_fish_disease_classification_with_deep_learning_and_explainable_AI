@@ -98,9 +98,15 @@ FishScan7 provides:
 * disease category information
 * potential treatment information
 
-### Live Application
+### Application Demo
 
-https://fishscan7.streamlit.app/
+<p align="center">
+  <img src="assets/demo_app/demo-app.gif"
+       alt="FishScan 7 Demo"
+       width="900">
+
+Try the application here (Desktop version): **🔗 https://fishscan7.streamlit.app/**
+
 
 
 ## Repository Structure

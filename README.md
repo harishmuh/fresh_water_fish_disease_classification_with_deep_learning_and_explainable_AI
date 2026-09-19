@@ -41,7 +41,7 @@ The original test set was kept separate from model training and validation.
 
 ## Experimental Approach
 
-The study uses ImageNet pretrained CNN architectures under a common transfer learning framework.
+The study uses pre-trained ImageNet CNN architectures under a common transfer learning framework.
 
 | Configuration | Setting |
 |---|---|
@@ -128,9 +128,7 @@ https://fishscan7.streamlit.app/
 
 ## Research Notebook
 
-The complete experimental workflow is available in the research notebook:
-
-[Open the full research notebook](https://colab.research.google.com/drive/11NoGDAn1FLC3D3Arhtk4nJ9ArxbHK_Yb?usp=sharing)
+The complete experimental workflow is available in the research notebook → [Open research notebook](https://colab.research.google.com/drive/11NoGDAn1FLC3D3Arhtk4nJ9ArxbHK_Yb?usp=sharing)
 
 The notebook covers:
 
@@ -157,7 +155,7 @@ Several limitations should be considered when interpreting the results:
 * The disease categories represent dataset labels and should not automatically be interpreted as laboratory-confirmed diagnoses.
 * The pretrained CNN backbones were frozen, so the experiments represent a transfer learning baseline rather than a fully fine-tuned model.
 * The model was evaluated on the dataset's independent test set and has not yet been externally validated on images from different farms, populations, or imaging conditions.
-* Grad CAM provides qualitative information about model activation and does not establish biological causality or confirm the true location of disease.
+* Grad-CAM provides qualitative information about model activation and does not establish biological causality or confirm the true location of disease.
 
 ## Future Work
 

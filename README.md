@@ -23,7 +23,7 @@ This project aims to:
 
 ## Dataset
 
-The study uses the Freshwater Fish Disease Aquaculture in South Asia dataset.
+The study uses the Freshwater Fish Disease Aquaculture in South Asia dataset from [Biswas et al. (2024)](https://ieeexplore.ieee.org/abstract/document/10759657). The dataset was made available by the author at this [link](https://www.kaggle.com/datasets/subirbiswas19/freshwater-fish-disease-aquaculture-in-south-asia)
 
 The version analyzed in this project contains:
 

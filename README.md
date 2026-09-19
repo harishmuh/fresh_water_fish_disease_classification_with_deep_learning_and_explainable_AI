@@ -176,3 +176,7 @@ Potential improvements to this work include:
 * Disease localization using object detection or segmentation
 * Larger scale explainability analysis
 * Multi-label classification for images containing multiple pathological conditions
+
+## Acknowledgments
+* License: Creative Commons NonCommercial (CC BY-NC 4.0)
+* Reference paper:  https://ieeexplore.ieee.org/abstract/document/10759657

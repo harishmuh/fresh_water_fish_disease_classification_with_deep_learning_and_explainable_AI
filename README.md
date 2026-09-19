@@ -10,7 +10,7 @@ A deep learning study investigating multiclass freshwater fish disease image cla
 
 The study examines overall classification performance, class-level performance, confusion patterns, misclassified images, and Grad-CAM visualizations. The resulting ResNet50 model was integrated into **FishScan7**, a Streamlit application for interactive image classification and model visualization.
 
-**Web app:** https://fishscan7.streamlit.app/
+**Web demo app:** https://fishscan7.streamlit.app/
 
 ## Research Objectives
 
